@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HudHudTask</string>
+    <string name="home_header">What would you like to <b>buy?</b></string>
+</resources>

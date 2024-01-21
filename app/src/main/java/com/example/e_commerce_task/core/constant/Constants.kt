@@ -1,0 +1,9 @@
+package com.task.ecommerce.core.constant
+
+object Constants {
+    const val BASE_URL = "https://halazon.hudhudclient.com"
+    const val AUTHORIZATION_TOKEN =
+        "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6OSwibmFtZSI6IlNhbWFyIEVsaWFzIiwicGhvbmUiOiIrOTYyNzkwOTYwMTQ0IiwiZW1haWwiOiJ0ZXN0QHRlc3QuY29tIiwiaW1hZ2UiOiIiLCJ2ZXJpZnllZCI6ZmFsc2UsImZjbV90b2tlbiI6ImRBanpwOHZhUWwtekFPRUJLVjZNNFY6QVBBOTFiSFpWbjdqWGFvUWxQQmRYSHZiOVJFUmJYYzd6RUU5NDVMVTlLdmkwbE5vUEFZS1U1X25aaU9vaGRJbW9sTVlhbnV4MFZaajRVSXdhUmxwUkhzN05Vbzh6LUpDOG5ndTg0YlJMdERKZUVWWEZiSmYzS2dTRTdLejJsMWpvZ3JLTHdUR2NydXgiLCJsYW5ndWFnZSI6ImVuIiwic3RhdHVzIjoiMCJ9.iYWCyYS4KcU4GHrhdaXajru65xIn1pY_aE_nK6yPMHI"
+    const val LANG = "en"
+    const val COOKIE = "ci_session=7tfdiji342ui0skve0vkj7psuhcgjj20"
+}

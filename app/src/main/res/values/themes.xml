@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Ecommercetask" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+
+    <style name="TTheme.Ecommercetask" parent="Base.Theme.Ecommercetask" />
+
+    <style name="textInputStyle" parent="Base.CardView">
+        <item name="boxStrokeColor">@color/white</item>
+        <item name="boxBackgroundColor">@color/white</item>
+        <item name="boxBackgroundMode">filled</item>
+        <item name="endIconTint">@color/grey</item>
+        <item name="startIconTint">@color/grey</item>
+    </style>
+</resources>
